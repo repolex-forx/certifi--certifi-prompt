@@ -1,0 +1,11 @@
+{
+  "org": "certifi",
+  "repo": "certifi-prompt",
+  "versions": [
+    {
+      "commit": "c5ccd2e61647dd2fc91aebaa7a061f7f74e7d03a",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:30:41.036462+00:00"
+    }
+  ]
+}
